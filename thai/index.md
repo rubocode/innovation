@@ -2,4 +2,4 @@
 
 ## THAI™
 
-![photo](/learning/photos/thai.png)
+![photo](/innovation/photos/thai.png)

@@ -2,4 +2,4 @@
 
 ## Authority™
 
-![photo](/learning/photos/authority.png)
+![photo](/innovation/photos/authority.png)

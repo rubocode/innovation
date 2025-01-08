@@ -2,4 +2,4 @@
 
 ## Information Storage Architecture (ISA™)
 
-![photo](/learning/photos/isa.png)
+![photo](/innovation/photos/isa.png)

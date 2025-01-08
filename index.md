@@ -1,6 +1,6 @@
-> [design](../)
+> [home](/)
 
-![banner](/learning/photos/banner.png)
+![banner](/innovation/photos/banner.png)
 
 ## Innovation
 

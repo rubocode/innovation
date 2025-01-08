@@ -2,4 +2,4 @@
 
 ## Redundancy Network (RN™)
 
-![photo](/learning/photos/rn.png)
+![photo](/innovation/photos/rn.png)

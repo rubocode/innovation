@@ -1,4 +1,4 @@
-> [innovation](../)
+> [home](../)
 
 ## Information Storage Architecture (ISA™)
 

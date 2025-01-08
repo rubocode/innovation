@@ -1,4 +1,4 @@
-> [innovation](../)
+> [home](../)
 
 ## Authority™
 

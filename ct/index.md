@@ -1,4 +1,4 @@
-> [design](../)
+> [home](../)
 
 ## Color Tagging (CT™)
 

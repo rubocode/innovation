@@ -17,4 +17,5 @@
 * [Choices™](choices)
 * [Priority™](priority)
 * [Guess™](guess)
+* [General Intelligence (gi™)](gi)
 * [altOS™](/altOS)

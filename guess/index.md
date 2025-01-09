@@ -1,5 +1,5 @@
 > [home](../)
 
-## Guess™
+## guess™
 
 ![photo](/innovation/photos/guess.png)

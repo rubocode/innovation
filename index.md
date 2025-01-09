@@ -8,14 +8,14 @@
 > **Steve Jobs**
 
 * [Introduction](introduction)
-* [Color Tagging (CT™)](ct)
-* [Information Storage Architecture (ISA™)](isa)
-* [Redundancy Network (RN™)](rn)
+* [Color Tagging (ct™)](ct)
+* [Information Storage Architecture (isa™)](isa)
+* [Redundancy Network (rn™)](rn)
 * [Priority™](priority)
 * [General Intelligence (gi™)](gi)
 * [THAI™](thai)
 * [Authority™](authority)
 * [iTask™](/iTask)
 * [Choices™](choices)
-* [Guess™](guess)
+* [guess™](guess)
 * [altOS™](/altOS)

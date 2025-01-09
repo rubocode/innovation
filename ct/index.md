@@ -1,5 +1,5 @@
 > [home](../)
 
-## Color Tagging (CT™)
+## Color Tagging (ct™)
 
 ![photo](/innovation/photos/ct.png)

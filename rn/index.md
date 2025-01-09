@@ -1,5 +1,5 @@
 > [home](../)
 
-## Redundancy Network (RN™)
+## Redundancy Network (rn™)
 
 ![photo](/innovation/photos/rn.png)

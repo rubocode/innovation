@@ -1,5 +1,5 @@
 > [home](../)
 
-## Information Storage Architecture (ISA™)
+## Information Storage Architecture (isa™)
 
 ![photo](/innovation/photos/isa.png)

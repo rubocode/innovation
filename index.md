@@ -1,4 +1,4 @@
-> [home](/)
+> [home](/altOS)
 
 ![banner](/innovation/photos/banner.png)
 

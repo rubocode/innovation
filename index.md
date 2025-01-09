@@ -14,5 +14,6 @@
 * [THAI™](thai)
 * [Authority™](authority)
 * [iTask™](/iTask)
+* [Priority™](priority)
 * [Guess™](guess)
 * [altOS™](/altOS)

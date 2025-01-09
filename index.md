@@ -1,4 +1,6 @@
 > [home](/altOS)
+> &bull; [learning](/learning)
+> &bull; [education](/education)
 
 ![banner](/innovation/photos/banner.png)
 

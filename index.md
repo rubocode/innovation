@@ -1,4 +1,5 @@
-> [home](/altOS)
+> [home](/)
+> &bull; [altOS™](/altOS)
 > &bull; [learning](/learning)
 > &bull; [education](/education)
 

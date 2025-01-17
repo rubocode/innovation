@@ -1,7 +1,6 @@
 > [home](/)
 > &bull; [altOS™](/altOS)
-> &bull; [learning](/learning)
-> &bull; [education](/education)
+> &bull; [iTask™](/iTask)
 
 ![banner](/innovation/photos/banner.png)
 
@@ -18,7 +17,5 @@
 * [General Intelligence (gi™)](gi)
 * [THAI™](thai)
 * [Authority™](authority)
-* [iTask™](/iTask)
 * [Choices™](choices)
 * [guess™](guess)
-* [altOS™](/altOS)

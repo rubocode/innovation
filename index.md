@@ -1,5 +1,4 @@
-> [home](/)
-> &bull; [altOS™](/altOS)
+> [home](/altOS)
 > &bull; [iTask™](/iTask)
 
 ![banner](/innovation/photos/banner.png)
